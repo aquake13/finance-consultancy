@@ -4,6 +4,15 @@ A single-file, production-ready landing page for an investment strategy consulta
 
 **Live site:** https://aquake13.github.io/finance-consultancy/
 
+![Hero screenshot](docs/screenshot-hero.png)
+
+<details>
+<summary>Full-page preview</summary>
+
+![Full page screenshot](docs/screenshot-full.png)
+
+</details>
+
 ---
 
 ## Features
